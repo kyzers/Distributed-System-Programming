@@ -1,0 +1,1 @@
+java -cp "C:\Users\owner\Desktop\examples\target\project-1-jar-with-dependencies.jar" App input2 input3 output2 output3 10
